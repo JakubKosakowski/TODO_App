@@ -1,6 +1,6 @@
 # TODO_App
 
-Simple TODO List in Python.
+Simple TODO List in Python. Make some tasks, to start being more motivated.
 
 Used framework:
 - PyQt5
